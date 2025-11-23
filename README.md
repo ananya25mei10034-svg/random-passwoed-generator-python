@@ -47,7 +47,7 @@ Ensure Python 3.x is installed.
 
 ### 2.Download or Clone the Repository
 
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/ananya25mei10034-svg/random-passwoed-generator-python.git
 
 ### 3.Run the python file
 python password_generator.py
