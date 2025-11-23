@@ -45,11 +45,11 @@ It also includes a function to verify the length of the generated password.
 ### **1. Install Python**
 Ensure Python 3.x is installed.  
 
-# Download or Clone the Repository
+### 2.Download or Clone the Repository
 
 git clone https://github.com/your-username/password-generator.git
 
-# Run the python file
+### 3.Run the python file
 python password_generator.py
 
 
